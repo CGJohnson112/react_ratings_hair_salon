@@ -1,0 +1,91 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+$t_mobile: #F039D2;
+$color-2: #06ff05;
+
+
+.bar_5, .bar_4, .bar_3, .bar_2, .bar_1{
+  color: $t-mobile;
+}
+
+.bar_5::before {
+    font-family: 'FontAwesome';
+    font-style: normal;
+    font-weight: 900;
+    text-decoration: inherit;
+    content: '\f005\f005\f005\f005\f005';
+    
+  }
+  
+  .bar_4::before {
+    font-family: 'FontAwesome';
+    font-style: normal;
+    font-weight: 900;
+    text-decoration: inherit;
+    content: '\f005\f005\f005\f005\f006';
+    
+    
+  }
+  
+  .bar_3::before {
+    font-family: 'FontAwesome';
+    font-style: normal;
+    font-weight: 900;
+    text-decoration: inherit;
+    content: '\f005\f005\f005\f006\f006';
+    
+    
+  }
+  
+  .bar_2::before {
+    font-family: 'FontAwesome';
+    font-style: normal;
+    font-weight: 900;
+    text-decoration: inherit;
+    content: '\f005\f005\f006\f006\f006';
+    
+    
+  }
+  
+  .bar_1::before {
+    font-family: 'FontAwesome';
+    font-style: normal;
+    font-weight: 900;
+    text-decoration: inherit;
+    content: '\f005\f006\f006\f006\f006';
+    
+    
+  }
+
+
+.star_mini {
+  font-size: 15px;
+}
+
+//bar progress chart
+.progress{
+  //border: 1px solid black;
+  position:relative;
+  margin-bottom: 10px;
+  width:100%;
+  //background-color: $color-2;
+}
+.bar{
+  background-color: $t-mobile;
+  position:relative;
+  
+}
+
+
+/* Responsive layout - make the columns stack on top of each other instead of next to each other */
+@media (max-width: 400px) {
+  .side, .middle {
+    width: 80%;
+  }
+  .right {
+    display: none;
+  }
+}
+
+
+ 

@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/projects/hair_salon/static/css/main.48289c26.chunk.css",
+    "main.js": "/projects/hair_salon/static/js/main.bd28ce8a.chunk.js",
+    "main.js.map": "/projects/hair_salon/static/js/main.bd28ce8a.chunk.js.map",
+    "runtime-main.js": "/projects/hair_salon/static/js/runtime-main.30c214ef.js",
+    "runtime-main.js.map": "/projects/hair_salon/static/js/runtime-main.30c214ef.js.map",
+    "static/css/2.de424728.chunk.css": "/projects/hair_salon/static/css/2.de424728.chunk.css",
+    "static/js/2.bd7033ff.chunk.js": "/projects/hair_salon/static/js/2.bd7033ff.chunk.js",
+    "static/js/2.bd7033ff.chunk.js.map": "/projects/hair_salon/static/js/2.bd7033ff.chunk.js.map",
+    "index.html": "/projects/hair_salon/index.html",
+    "precache-manifest.663e271a642dab39429003aebc5350b9.js": "/projects/hair_salon/precache-manifest.663e271a642dab39429003aebc5350b9.js",
+    "service-worker.js": "/projects/hair_salon/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/projects/hair_salon/static/css/2.de424728.chunk.css.map",
+    "static/css/main.48289c26.chunk.css.map": "/projects/hair_salon/static/css/main.48289c26.chunk.css.map",
+    "static/js/2.bd7033ff.chunk.js.LICENSE.txt": "/projects/hair_salon/static/js/2.bd7033ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30c214ef.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.bd7033ff.chunk.js",
+    "static/css/main.48289c26.chunk.css",
+    "static/js/main.bd28ce8a.chunk.js"
+  ]
+}
